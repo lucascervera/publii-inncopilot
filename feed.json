@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "innCoPilot.com",
+    "description": "",
+    "home_page_url": "https://inncopilot.com",
+    "feed_url": "https://inncopilot.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "innCoPilot"
+    },
+    "items": [
+        {
+            "id": "https://inncopilot.com/inncopilot.html",
+            "url": "https://inncopilot.com/inncopilot.html",
+            "title": "innCoPilot",
+            "summary": "Applying artificial Intelligence to innovative business creation",
+            "content_html": "<p>Applying artificial Intelligence to innovative business creation</p>\n",
+            "author": {
+                "name": "innCoPilot"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-06-06T10:22:12+02:00",
+            "date_modified": "2023-06-06T10:22:12+02:00"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>innCoPilot.com</title>
+    <link href="https://inncopilot.com/feed.xml" rel="self" />
+    <link href="https://inncopilot.com" />
+    <updated>2023-06-06T10:22:12+02:00</updated>
+    <author>
+        <name>innCoPilot</name>
+    </author>
+    <id>https://inncopilot.com</id>
+
+    <entry>
+        <title>innCoPilot</title>
+        <author>
+            <name>innCoPilot</name>
+        </author>
+        <link href="https://inncopilot.com/inncopilot.html"/>
+        <id>https://inncopilot.com/inncopilot.html</id>
+
+        <updated>2023-06-06T10:22:12+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Applying artificial Intelligence to innovative business creation
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Applying artificial Intelligence to innovative business creation</p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>
