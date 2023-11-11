@@ -3,12 +3,78 @@
     <title>innCoPilot.com</title>
     <link href="https://inncopilot.com/feed.xml" rel="self" />
     <link href="https://inncopilot.com" />
-    <updated>2023-06-06T11:10:44+02:00</updated>
+    <updated>2023-11-11T11:53:31+01:00</updated>
     <author>
         <name>innCoPilot</name>
     </author>
     <id>https://inncopilot.com</id>
 
+    <entry>
+        <title>Privacy Policy</title>
+        <author>
+            <name>innCoPilot</name>
+        </author>
+        <link href="https://inncopilot.com/privacy-policy.html"/>
+        <id>https://inncopilot.com/privacy-policy.html</id>
+
+        <updated>2023-11-11T11:45:51+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Lucas Rodriguez Cervera Privacy Policy This privacy policy will explain how Lucas Rodriguez Cervera uses the personal data we collect from you when you use our website. What data do we collect? Lucas Rodriguez Cervera collects the following data: Personal identification information (Name, email address,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Lucas Rodriguez Cervera Privacy Policy</p>
+<p>This privacy policy will explain how Lucas Rodriguez Cervera uses the personal data we collect from you when you use our website.</p>
+<p>What data do we collect?
+Lucas Rodriguez Cervera collects the following data:</p>
+<p>Personal identification information (Name, email address, phone number, etc.)</p>
+<p>How do we collect your data?
+You directly provide Lucas Rodriguez Cervera with most of the data we collect. We collect data and process data when you:</p>
+<p>Register online or place an order for any of our products or services.</p>
+<p>Voluntarily complete a customer survey or provide feedback on any of our message boards or via email.</p>
+<p>Use or view our website via your browser’s cookies.</p>
+<p>Lucas Rodriguez Cervera may also receive your data indirectly from the following sources:</p>
+<p>How will we use your data?
+Lucas Rodriguez Cervera collects your data so that we can:</p>
+<p>Process your order and manage your account.</p>
+<p>Email you with special offers on other products and services we think you might like.</p>
+<p>Email you asking for feedback.</p>
+<p>When Lucas Rodriguez Cervera processes your order, it may send your data to, and also use the resulting information from, credit reference agencies to prevent fraudulent purchases.</p>
+<p>How do we store your data?
+Lucas Rodriguez Cervera securely stores your data with Google Drive.</p>
+<p>Lucas Rodriguez Cervera will keep your personal identification data for 100 years. Once this time period has expired, we will delete your data by removing it from our database.</p>
+<p>Marketing
+Lucas Rodriguez Cervera would like to send you information about products and services of ours that we think you might like.</p>
+<p>Lucas Rodriguez Cervera would like to contact you to gather feedback about our products and services.</p>
+<p>If you have agreed to receive marketing, you may always opt out at a later date.</p>
+<p>You have the right at any time to stop Lucas Rodriguez Cervera from contacting you for marketing purposes or giving your data to other members of the Lucas Rodriguez Cervera Group.</p>
+<p>If you no longer wish to be contacted for marketing purposes, please send an email to lucas📧lucascervera.com.</p>
+<p>What are your data protection rights?
+Lucas Rodriguez Cervera would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:</p>
+<p>The right to access – You have the right to request Lucas Rodriguez Cervera for copies of your personal data. We may charge you a small fee for this service.</p>
+<p>The right to rectification – You have the right to request that Lucas Rodriguez Cervera correct any information you believe is inaccurate. You also have the right to request Lucas Rodriguez Cervera to complete the information you believe is incomplete.</p>
+<p>The right to erasure – You have the right to request that Lucas Rodriguez Cervera erase your personal data, under certain conditions.</p>
+<p>The right to restrict processing – You have the right to request that Lucas Rodriguez Cervera restrict the processing of your personal data, under certain conditions.</p>
+<p>The right to object to processing – You have the right to object to Lucas Rodriguez Cervera’s processing of your personal data, under certain conditions.</p>
+<p>The right to data portability – You have the right to request that Lucas Rodriguez Cervera transfer the data that we have collected to another organization, or directly to you, under certain conditions.</p>
+<p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at our email:</p>
+<p>Write to us: lucas📧lucascervera.com</p>
+<p>Privacy policies of other websites
+The Lucas Rodriguez Cervera website contains links to other websites. Our privacy policy applies only to our website, so if you click on a link to another website, you should read their privacy policy.</p>
+<p>Changes to our privacy policy
+Lucas Rodriguez Cervera keeps its privacy policy under regular review and places any updates on this web page. This contract is managed with github. You can see all its versions in github.com.</p>
+<p>How to contact us
+If you have any questions about Lucas Rodriguez Cervera’s privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us.</p>
+<p>Email us at: lucas📧lucascervera.com</p>
+<p>How to contact the appropriate authority
+Should you wish to report a complaint or if you feel that Lucas Rodriguez Cervera has not addressed your concern in a satisfactory manner, you may contact the Information Commissioner’s Office.</p>
+<p>Email: lucas📧lucascervera.com</p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>innCoPilot</title>
         <author>
@@ -16,40 +82,34 @@
         </author>
         <link href="https://inncopilot.com/inncopilot.html"/>
         <id>https://inncopilot.com/inncopilot.html</id>
+        <media:content url="https://inncopilot.com/media/posts/1/DALLE-2023-11-03-08.37.15-An-isometric-composition-showcasing-a-startups-design-activities-creatively-modeled-with-hand-made-clay-figures-in-various-blue-hues.-The-scene-feat.png" medium="image" />
 
-        <updated>2023-06-06T11:10:44+02:00</updated>
+        <updated>2023-11-11T11:53:31+01:00</updated>
             <summary>
                 <![CDATA[
-                    Powering Innovation through AI-Driven Business Modeling Artificial Intelligence (AI) has become a key tool for modern businesses. For an entrepreneur designing their business model, AI can provide significant advantages. Predictive analytics is one of the most effective applications of AI. This technology helps entrepreneurs forecast&hellip;
+                        <img src="https://inncopilot.com/media/posts/1/DALLE-2023-11-03-08.37.15-An-isometric-composition-showcasing-a-startups-design-activities-creatively-modeled-with-hand-made-clay-figures-in-various-blue-hues.-The-scene-feat.png" alt="" />
+                    Improve your Business Model with AI By providing valuable insights and accurate predictions, AI supports entrepreneurs in making informed and strategic decisions. This can be crucial for designing a successful business model. Privacy policy
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h2 id="powering-innovation-through-ai-driven-business-modeling">Powering Innovation through AI-Driven Business Modeling</h2>
-<p>Artificial Intelligence (AI) has become a key tool for modern businesses. For an entrepreneur designing their business model, AI can provide significant advantages.</p>
-<h5 id="predictive-analytics">Predictive Analytics</h5>
-<p>Predictive analytics is one of the most effective applications of AI. This technology helps entrepreneurs forecast future trends and make informed decisions. </p>
-<h5 id="customer-insights">Customer Insights</h5>
-<p>AI can analyze vast amounts of customer data to identify patterns and behaviors. This can help entrepreneurs understand their target audience better and design a business model that meets their needs.</p>
-<h5 id="process-automation">Process Automation</h5>
-<p>AI can automate repetitive tasks, freeing up time for entrepreneurs to focus on more critical aspects of their business. From customer service to data analysis, AI can handle various tasks efficiently and accurately.</p>
-<h5 id="improved-decision-making">Improved Decision-Making</h5>
+                    <p><img src="https://inncopilot.com/media/posts/1/DALLE-2023-11-03-08.37.15-An-isometric-composition-showcasing-a-startups-design-activities-creatively-modeled-with-hand-made-clay-figures-in-various-blue-hues.-The-scene-feat.png" class="type:primaryImage" alt="" /></p>
+                <h2 id="improve-your-business-model-with-ai">Improve your Business Model with AI</h2>
 <p>By providing valuable insights and accurate predictions, AI supports entrepreneurs in making informed and strategic decisions. This can be crucial for designing a successful business model.</p>
-<h5 id="competitive-edge">Competitive Edge</h5>
-<p>In a competitive business landscape, AI can give entrepreneurs an edge. The ability to predict trends, understand customers, automate tasks, and make informed decisions can set a business apart from its competitors.</p>
-<h2 id="business-modeling-done-right">Business Modeling Done Right</h2>
-<p>Centralize your business model information in one place with our powerful tool, innCoPilot. Avoid the hassle of data dispersion and simplify your work. Use our platform to design, analyze, and validate your business ideas with ease and accuracy using AI.</p>
-<h3 id="methodology-and-documentation">Methodology and Documentation</h3>
-<p>Our modeler integrates popular innovation methodologies like Lean Startup, Customer Development, and Design Thinking to provide a unified approach. Stay on track with our step-by-step guide and streamline your business model creation process.</p>
-<h3 id="task-prioritization-and-experimentation">Task Prioritization and Experimentation</h3>
-<p>Optimize your project management with our AI-powered platform. InnBoK Modeler offers customizable templates for different business scenarios, from e-commerce to tech startups. Prioritize tasks and experiments to maximize your chances of success.</p>
-<h3 id="exportable-and-expandable">Exportable and Expandable</h3>
-<p>Communicate your business model to all stakeholders with ease. Our platform allows you to export your models in various formats like web, PDF, and image.</p>
-<h3 id="based-on-logseq-and-open-source">Based on LogSeq and Open Source</h3>
-<p>We utilize the power of LogSeq, a top-tier note-taking and knowledge management tool for our platform. Enjoy an interconnected approach to organize your business model information with our system. As an open-source platform, we foster active development and maintenance by a dedicated community of contributors.</p>
-<h3 id="supercharging-innovation-with-ai">Supercharging Innovation with AI</h3>
-<p>At InnBoK, we believe in the transformative power of Artificial Intelligence. Our platform integrates AI to provide predictive analysis, trend forecasting, and automated task management to help businesses innovate at scale. Discover the edge AI can give to your innovative business model with InnBoK Modeler.</p>
-<p>contact: <a href="https://lucascervera.com">lucascervera.com</a></p>
+<table>
+<thead>
+<tr>
+<th>Preview comming soon!</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfZG1IyMVIij1vmt0Ovm2uTYghkHU6pwbc2v7x8kCB9NNIF5g/viewform?usp=sf_link">I want to be notified</a></td>
+</tr>
+</tbody></table>
+<p><figure class="post__image"><img loading="lazy" src="https://inncopilot.com/media/posts/1/chrome_DDDoRAtqAF.png" alt="Image description" width="1032" height="366"  sizes="100vw" srcset="https://inncopilot.com/media/posts/1/responsive/chrome_DDDoRAtqAF-xs.png 300w ,https://inncopilot.com/media/posts/1/responsive/chrome_DDDoRAtqAF-sm.png 480w ,https://inncopilot.com/media/posts/1/responsive/chrome_DDDoRAtqAF-md.png 768w ,https://inncopilot.com/media/posts/1/responsive/chrome_DDDoRAtqAF-lg.png 1024w ,https://inncopilot.com/media/posts/1/responsive/chrome_DDDoRAtqAF-xl.png 1360w ,https://inncopilot.com/media/posts/1/responsive/chrome_DDDoRAtqAF-2xl.png 1600w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://inncopilot.com/media/posts/1/chrome_zOujxLwDTP.png" alt="Image description" width="959" height="432"  sizes="100vw" srcset="https://inncopilot.com/media/posts/1/responsive/chrome_zOujxLwDTP-xs.png 300w ,https://inncopilot.com/media/posts/1/responsive/chrome_zOujxLwDTP-sm.png 480w ,https://inncopilot.com/media/posts/1/responsive/chrome_zOujxLwDTP-md.png 768w ,https://inncopilot.com/media/posts/1/responsive/chrome_zOujxLwDTP-lg.png 1024w ,https://inncopilot.com/media/posts/1/responsive/chrome_zOujxLwDTP-xl.png 1360w ,https://inncopilot.com/media/posts/1/responsive/chrome_zOujxLwDTP-2xl.png 1600w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://inncopilot.com/media/posts/1/chrome_UfL9jNP9Pu.png" alt="Image description" width="958" height="647"  sizes="100vw" srcset="https://inncopilot.com/media/posts/1/responsive/chrome_UfL9jNP9Pu-xs.png 300w ,https://inncopilot.com/media/posts/1/responsive/chrome_UfL9jNP9Pu-sm.png 480w ,https://inncopilot.com/media/posts/1/responsive/chrome_UfL9jNP9Pu-md.png 768w ,https://inncopilot.com/media/posts/1/responsive/chrome_UfL9jNP9Pu-lg.png 1024w ,https://inncopilot.com/media/posts/1/responsive/chrome_UfL9jNP9Pu-xl.png 1360w ,https://inncopilot.com/media/posts/1/responsive/chrome_UfL9jNP9Pu-2xl.png 1600w"></figure></p>
+<p></a><a href="https://inncopilot.com/privacy-policy.html" target="_blank" rel="noopener noreferrer">Privacy policy</a></p></p>
 
             ]]>
         </content>
